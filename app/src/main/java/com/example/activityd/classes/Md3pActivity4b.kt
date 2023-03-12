@@ -1,6 +1,5 @@
 package com.example.activityd.classes
 
-import com.example.activity4b.classes.*
 import kotlin.collections.ArrayList
 
 fun main() {
