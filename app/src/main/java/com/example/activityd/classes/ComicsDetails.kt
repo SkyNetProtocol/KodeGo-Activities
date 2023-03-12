@@ -1,4 +1,4 @@
-package com.example.activity4b.classes
+package com.example.activityd.classes
 
 class ComicsDetails (val titleComics: String, val monthPublishedComics: String, val yearPublishedComics: Int,
                     val illustratorComics: String, val publisherComics: String){

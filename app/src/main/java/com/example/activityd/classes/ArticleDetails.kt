@@ -1,4 +1,4 @@
-package com.example.activity4b.classes
+package com.example.activityd.classes
 
 class ArticleDetails (val articleTitle: String, val articleContent: String, val articleAuthor: String)
 
