@@ -1,0 +1,50 @@
+<resources>
+    <string name="signIn">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="register">register</string>
+    <string name="already_had_an_account">already had an account</string>
+    <string name="hello_world">Hello World</string>
+    <string name="app_name" />
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="sample">Brand Name</string>
+    <string name="generic_name">Generic Name</string>
+    <string name="list">List</string>
+    <string name="search">Search</string>
+    <string name="transaction">Transaction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="generic1">Soap</string>
+    <string name="generic2">Shampoo</string>
+    <string name="generic3">Detergent</string>
+    <string name="generic4">Bleach</string>
+    <string name="generic5">Corn Chips</string>
+    <string name="generic6">Potato Chips</string>
+    <string name="generic7">Canned Goods</string>
+    <string name="generic8">Vegetables</string>
+    <string name="generic9">Alcohol</string>
+    <string name="generic10">Tissue</string>
+
+    <string name="brand1">Safe Guard</string>
+    <string name="brand2">Head and Shoulders</string>
+    <string name="brand3">Tide</string>
+    <string name="brand4">Zonrox</string>
+    <string name="brand5">Mr. Chips</string>
+    <string name="brand6">Piatos</string>
+    <string name="brand7">Argentina Corned Beef</string>
+    <string name="brand8">Organic farm carrots</string>
+    <string name="brand9">Green Cross</string>
+    <string name="brand10">Bonus Tissue</string>
+
+
+</resources>
