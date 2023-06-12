@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".userInterface.activities.AddItemActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="52dp">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/grocery_Name"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="@string/grocery_item_name" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/grocery_Category"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="@string/grocery_item_category" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/grocery_Stock"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="@string/available_stock" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/grocery_Price"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="@string/item_price" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_Item_List"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_item" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

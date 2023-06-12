@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DatabaseActivity</string>
+    <string name="sample">sample</string>
+    <string name="generic_name">generic name</string>
+
+    <string name="generic1">Soap</string>
+    <string name="generic2">Shampoo</string>
+    <string name="generic3">Detergent</string>
+    <string name="generic4">Bleach</string>
+    <string name="generic5">Corn Chips</string>
+    <string name="generic6">Potato Chips</string>
+    <string name="generic7">Canned Goods</string>
+    <string name="generic8">Vegetables</string>
+    <string name="generic9">Alcohol</string>
+    <string name="generic10">Tissue</string>
+
+    <string name="brand1">Safe Guard</string>
+    <string name="brand2">Head and Shoulders</string>
+    <string name="brand3">Tide</string>
+    <string name="brand4">Zonrox</string>
+    <string name="brand5">Mr. Chips</string>
+    <string name="brand6">Piatos</string>
+    <string name="brand7">Argentina Corned Beef</string>
+    <string name="brand8">Organic farm carrots</string>
+    <string name="brand9">Green Cross</string>
+    <string name="brand10">Bonus Tissue</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="qty">QTY</string>
+    <string name="price">Price</string>
+    <string name="add_item_in_grocery_list">ADD ITEM IN GROCERY LIST</string>
+    <string name="grocery_item_name">Grocery Item Name</string>
+    <string name="grocery_item_category">Grocery Item Category</string>
+    <string name="available_stock">Available Stock</string>
+    <string name="item_price">Item Price</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="item_name">Item Name</string>
+    <string name="no_records_yet">No Records Yet</string>
+</resources>
