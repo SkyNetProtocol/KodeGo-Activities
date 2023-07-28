@@ -1,0 +1,48 @@
+com.example.activityd.app-lifecycle-process-2.4.1-0 C:\Users\John Chris\.gradle\caches\transforms-3\007d142fec4844f0146eda9f649ee9a7\transformed\lifecycle-process-2.4.1\res
+com.example.activityd.app-window-1.0.0-1 C:\Users\John Chris\.gradle\caches\transforms-3\081ba6d73bc29fb559d0230b5aa02ccc\transformed\window-1.0.0\res
+com.example.activityd.app-core-ktx-1.12.0-alpha01-2 C:\Users\John Chris\.gradle\caches\transforms-3\177c911359b7042b92c78e0b24638f12\transformed\core-ktx-1.12.0-alpha01\res
+com.example.activityd.app-material-1.8.0-3 C:\Users\John Chris\.gradle\caches\transforms-3\1d487bad8b8eb7d71e2e269546ce8a0b\transformed\material-1.8.0\res
+com.example.activityd.app-lifecycle-viewmodel-ktx-2.5.1-4 C:\Users\John Chris\.gradle\caches\transforms-3\20690e138ec488b6405ef1f0809b0b6e\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.activityd.app-slidingpanelayout-1.2.0-5 C:\Users\John Chris\.gradle\caches\transforms-3\3266d7cdf1003951adbc7dcfdc654d4a\transformed\slidingpanelayout-1.2.0\res
+com.example.activityd.app-coordinatorlayout-1.1.0-6 C:\Users\John Chris\.gradle\caches\transforms-3\485566980636c115aa2e92db65512248\transformed\coordinatorlayout-1.1.0\res
+com.example.activityd.app-lifecycle-runtime-ktx-2.5.1-7 C:\Users\John Chris\.gradle\caches\transforms-3\4ed4f22677906c6c993365c6ad697eed\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.activityd.app-annotation-experimental-1.3.0-8 C:\Users\John Chris\.gradle\caches\transforms-3\4f29185bc38824fd0d1bff7f16aa8966\transformed\annotation-experimental-1.3.0\res
+com.example.activityd.app-recyclerview-1.1.0-9 C:\Users\John Chris\.gradle\caches\transforms-3\50e06a87e2cb8601328d1e33fb3db550\transformed\recyclerview-1.1.0\res
+com.example.activityd.app-emoji2-views-helper-1.2.0-10 C:\Users\John Chris\.gradle\caches\transforms-3\541a629226d3ce6bf2b882acad9d379a\transformed\emoji2-views-helper-1.2.0\res
+com.example.activityd.app-startup-runtime-1.1.1-11 C:\Users\John Chris\.gradle\caches\transforms-3\5deca74391174b10d4a7cde5dc360b19\transformed\startup-runtime-1.1.1\res
+com.example.activityd.app-constraintlayout-2.1.4-12 C:\Users\John Chris\.gradle\caches\transforms-3\6125fd03928722d7fcc85200ed418c7c\transformed\constraintlayout-2.1.4\res
+com.example.activityd.app-lifecycle-livedata-core-ktx-2.5.1-13 C:\Users\John Chris\.gradle\caches\transforms-3\61bf79c1b1db3d5639e9d02a02f54800\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.activityd.app-navigation-fragment-ktx-2.5.3-14 C:\Users\John Chris\.gradle\caches\transforms-3\6baa8bf99c134c8eb579960a828e514a\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.activityd.app-lifecycle-runtime-2.5.1-15 C:\Users\John Chris\.gradle\caches\transforms-3\7650afabb276e308b44a6486ca2736de\transformed\lifecycle-runtime-2.5.1\res
+com.example.activityd.app-navigation-runtime-ktx-2.5.3-16 C:\Users\John Chris\.gradle\caches\transforms-3\775af1582ff7c6a8b1fe1a025ab6ea07\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.activityd.app-navigation-ui-ktx-2.5.3-17 C:\Users\John Chris\.gradle\caches\transforms-3\9087a2baf6b0e603626789b5ddfce61f\transformed\navigation-ui-ktx-2.5.3\res
+com.example.activityd.app-drawerlayout-1.1.1-18 C:\Users\John Chris\.gradle\caches\transforms-3\9cd0065ac3aac68d2e4561844774ed6b\transformed\drawerlayout-1.1.1\res
+com.example.activityd.app-activity-1.6.0-19 C:\Users\John Chris\.gradle\caches\transforms-3\a25f9cfc46c8dfbb982fef748f7f1bc4\transformed\activity-1.6.0\res
+com.example.activityd.app-transition-1.4.1-20 C:\Users\John Chris\.gradle\caches\transforms-3\aa4a355c172da09c7e0107c5f5f7ba43\transformed\transition-1.4.1\res
+com.example.activityd.app-savedstate-ktx-1.2.0-21 C:\Users\John Chris\.gradle\caches\transforms-3\b9bd937659f032cd49c0c670657043c9\transformed\savedstate-ktx-1.2.0\res
+com.example.activityd.app-lifecycle-viewmodel-2.5.1-22 C:\Users\John Chris\.gradle\caches\transforms-3\bb06d0b1d38601776faf97b33758fe39\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.activityd.app-appcompat-resources-1.6.1-23 C:\Users\John Chris\.gradle\caches\transforms-3\bdaacda50d89b201f4952a407c4bc0c1\transformed\appcompat-resources-1.6.1\res
+com.example.activityd.app-navigation-common-2.5.3-24 C:\Users\John Chris\.gradle\caches\transforms-3\c59877dd882b5c5fa90a8230f986fe7a\transformed\navigation-common-2.5.3\res
+com.example.activityd.app-viewpager2-1.0.0-25 C:\Users\John Chris\.gradle\caches\transforms-3\cbf8c9530311d0a6a8bc2f66f73f4027\transformed\viewpager2-1.0.0\res
+com.example.activityd.app-savedstate-1.2.0-26 C:\Users\John Chris\.gradle\caches\transforms-3\d0bc1da557228d6d533c783f43def1e6\transformed\savedstate-1.2.0\res
+com.example.activityd.app-fragment-ktx-1.5.4-27 C:\Users\John Chris\.gradle\caches\transforms-3\d40912789365233b95441f82aeee6f81\transformed\fragment-ktx-1.5.4\res
+com.example.activityd.app-navigation-common-ktx-2.5.3-28 C:\Users\John Chris\.gradle\caches\transforms-3\db7021541f31a52b58d2d01b06011d70\transformed\navigation-common-ktx-2.5.3\res
+com.example.activityd.app-core-1.12.0-alpha01-29 C:\Users\John Chris\.gradle\caches\transforms-3\dc9cd51386c266b8bee0c0e9c420818c\transformed\core-1.12.0-alpha01\res
+com.example.activityd.app-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\John Chris\.gradle\caches\transforms-3\dd0d8b2296f5fd1cf30a1ff37bd1d7c9\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.activityd.app-lifecycle-livedata-core-2.5.1-31 C:\Users\John Chris\.gradle\caches\transforms-3\e50cf3311cd2f48ebb0613b6c62135c5\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.activityd.app-activity-ktx-1.6.0-32 C:\Users\John Chris\.gradle\caches\transforms-3\e686f4668efa47346f53f7cd6f9000c5\transformed\activity-ktx-1.6.0\res
+com.example.activityd.app-cardview-1.0.0-33 C:\Users\John Chris\.gradle\caches\transforms-3\ef802cabc2971380a614f77a9b5f251f\transformed\cardview-1.0.0\res
+com.example.activityd.app-appcompat-1.6.1-34 C:\Users\John Chris\.gradle\caches\transforms-3\f5f131ff85b6f1986ab4262c46969cb6\transformed\appcompat-1.6.1\res
+com.example.activityd.app-navigation-runtime-2.5.3-35 C:\Users\John Chris\.gradle\caches\transforms-3\fbdec028b17e50e6f7ee9a2e2938565e\transformed\navigation-runtime-2.5.3\res
+com.example.activityd.app-fragment-1.5.4-36 C:\Users\John Chris\.gradle\caches\transforms-3\fd42560e2769db02bb3a1ec3b82a2d06\transformed\fragment-1.5.4\res
+com.example.activityd.app-navigation-fragment-2.5.3-37 C:\Users\John Chris\.gradle\caches\transforms-3\ff937d3ccd0ca5b14b451b04d270ffe5\transformed\navigation-fragment-2.5.3\res
+com.example.activityd.app-navigation-ui-2.5.3-38 C:\Users\John Chris\.gradle\caches\transforms-3\ffbb5a3b1e37d029a63ab1421c75465c\transformed\navigation-ui-2.5.3\res
+com.example.activityd.app-emoji2-1.2.0-39 C:\Users\John Chris\.gradle\caches\transforms-3\fffe1a55f591661417a57da7bbcae312\transformed\emoji2-1.2.0\res
+com.example.activityd.app-pngs-40 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\generated\res\pngs\debug
+com.example.activityd.app-resValues-41 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\generated\res\resValues\debug
+com.example.activityd.app-rs-42 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\generated\res\rs\debug
+com.example.activityd.app-packageDebugResources-43 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.activityd.app-packageDebugResources-44 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.activityd.app-merged_res-45 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\build\intermediates\merged_res\debug
+com.example.activityd.app-debug-46 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\src\debug\res
+com.example.activityd.app-main-47 C:\Users\John Chris\OneDrive\Desktop\MD3P Projects\activityd\app\src\main\res

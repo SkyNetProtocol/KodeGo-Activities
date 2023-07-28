@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/activity_page4.xml",
+        "source": "com.example.activityd.app-main-47:/layout/activity_page4.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/activity_page3.xml",
+        "source": "com.example.activityd.app-main-47:/layout/activity_page3.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/activity_page5.xml",
+        "source": "com.example.activityd.app-main-47:/layout/activity_page5.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/activity_page2.xml",
+        "source": "com.example.activityd.app-main-47:/layout/activity_page2.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/layout_box2.xml",
+        "source": "com.example.activityd.app-main-47:/layout/layout_box2.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/layout_box.xml",
+        "source": "com.example.activityd.app-main-47:/layout/layout_box.xml"
+    },
+    {
+        "merged": "com.example.activityd.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.activityd.app-main-47:/layout/activity_main.xml"
+    }
+]

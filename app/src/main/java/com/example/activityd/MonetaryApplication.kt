@@ -1,28 +1,34 @@
 package com.example.activityd
 
+import java.util.*
+import kotlin.collections.ArrayList
+
 fun main() {
+    val scanner = Scanner(System.`in`)
+    val monetaryAmounts = ArrayList<Double>()
 
-    println("Please input any Philippine Peso monetary value")
-    println("Note: Use 0.00 format")
+    for (i in 1..5) {
+        val amount = getUserInput("Enter monetary amount $i: ", scanner)
+        monetaryAmounts.add(amount)
+    }
 
-//  In this program, Float is used instead of integer so that the resulting value is not rounded off
+    val divisor = getUserInput("Divide the total by: ", scanner)
 
-        val money1:Float = readln().toFloat()
-        val money2:Float = readln().toFloat()
-        val money3:Float = readln().toFloat()
-        val money4:Float = readln().toFloat()
-        val money5:Float = readln().toFloat()
+    val total = monetaryAmounts.sum()
+    val result = total / divisor
 
-        val myList :List<Float> = listOf(money1, money2, money3, money4, money5)
-        println("Above values are the List of Monetary Value")
-        println(myList.slice(0..4))
+    println("Total: $total")
+    println("Result: $result")
+}
 
-        println("Divide all of the Monetary value by how many?")
-        val divisor:Int = readln().toInt()
-
-        println("Since the total of the 5 inputs will be divided by the answer in the second question input, the final answer will be: ")
-        val final = (money1 + money2 + money3 + money4 + money5)/divisor
-
-        println("$final")
-
+fun getUserInput(prompt: String, scanner: Scanner): Double {
+    while (true) {
+        print(prompt)
+        try {
+            return scanner.nextDouble()
+        } catch (e: InputMismatchException) {
+            println("Invalid input. Please enter a valid number.")
+            scanner.next()
+        }
+    }
 }
