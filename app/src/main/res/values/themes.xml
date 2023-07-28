@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
     
-    <style name="tableName">
+    <style name="tableName" parent="Theme.Form">
         <item name="android:background">@color/black</item>
         <item name="android:gravity">start</item>
         <item name="android:textColor">@color/white</item>
@@ -24,21 +24,21 @@
         <item name="android:layout_marginTop">14dp</item>
     </style>
 
-    <style name="tableTextInside">
+    <style name="tableTextInside" parent="Theme.Form">
         <item name="android:textSize">14sp</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:gravity">center</item>
         <item name="fontFamily">@font/roboto</item>
     </style>
 
-    <style name="textOutsideTable">
+    <style name="textOutsideTable" parent="Theme.Form">
         <item name="android:textSize">14sp</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:gravity">center</item>
         <item name="fontFamily">@font/roboto</item>
     </style>
 
-    <style name="editText">
+    <style name="editText" parent="Theme.Form">
         <item name="android:textSize">14sp</item>
         <item name="android:layout_height">48dp</item>
         <item name="android:textColor">@color/black</item>
